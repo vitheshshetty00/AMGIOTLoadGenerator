@@ -1,0 +1,11 @@
+PlantID,CompanyID,MachineID,CycleStartTS,CycleEndTS,UpdatedTS,SpindleSpeedAct,SyncedStatus,SpindleTemp,ActFeed,ActProgComment,ActProgram,AlarmSignal,AllPosition,AutoOpnSignal,CNCEmargency,CNCMode,CNCState,CNCWarning,CutTime,CuttingFeedSignal,CycleEnd,CycleStart,CycleStartLampSignal,DryRunSignal,EM,FeedHoldLampSignal,FeedOverride,FOCASProductionData,LiveAlarm,MainProgComment,MainProgram,MCode,PartCount,PowerOnTime,ProgrammedFeed,PulseCoderTemp,RunningToolNo,RunTime,ServoCurrentPercent,ServoEnergy,ServoError,ServoLeakResistData,ServoLoad,ServoSpeed,ServoTemp,SpindleEnergy,SpindleLeakResistData,SpindleLoad,SpindleSpeedProgrammed
+Plant-1,Ace,MachineID-1,2025-06-10T20:00:03.162Z,2025-06-10T20:00:30.162Z,2025-06-10T20:00:30.162Z,5503,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant-1,Ace,MachineID-1,2025-06-10T20:00:03.162Z,,2025-06-10T20:00:27.162Z,7998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant-1,Ace,MachineID-1,2025-06-10T20:00:03.162Z,,2025-06-10T20:00:24.162Z,1251,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant-1,Ace,MachineID-1,2025-06-10T20:00:03.162Z,,2025-06-10T20:00:21.162Z,1500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant-1,Ace,MachineID-1,2025-06-10T20:00:03.162Z,,2025-06-10T20:00:18.162Z,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant-1,Ace,MachineID-1,2025-06-10T20:00:03.162Z,,2025-06-10T20:00:15.162Z,5999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant-1,Ace,MachineID-1,2025-06-10T20:00:03.162Z,,2025-06-10T20:00:12.162Z,1500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant-1,Ace,MachineID-1,2025-06-10T20:00:03.162Z,,2025-06-10T20:00:09.162Z,4000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant-1,Ace,MachineID-1,2025-06-10T20:00:03.162Z,,2025-06-10T20:00:06.162Z,691,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant-1,Ace,MachineID-1,2025-06-10T20:00:03.162Z,,2025-06-10T20:00:03.162Z,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

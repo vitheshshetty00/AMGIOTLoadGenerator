@@ -1,0 +1,2 @@
+PlantID,CompanyID,MachineID,AlarmTime,SyncedStatus,AlarmNo,Message
+Plant-1,Ace,MachineID-1,2025-06-07T20:00:00.000Z,0,1021,NO TOOL IN SPINDLE. CYCLE OFF.

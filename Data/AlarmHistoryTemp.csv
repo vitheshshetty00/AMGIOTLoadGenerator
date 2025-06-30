@@ -1,0 +1,2 @@
+AlarmNo,AlarmGroupNo,AlarmMSG,AlarmAxisNo,AlarmTime,MachineID,PlantID,CompanyID,SyncedStatus,IsCriticalAlarm
+500,4,+ OVERTRAVEL ( SOFT 1 ),3,2025-06-07T20:00:00.000Z,MachineID-1,Plant-1,Ace,0,false
