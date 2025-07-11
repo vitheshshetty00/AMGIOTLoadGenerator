@@ -53,5 +53,5 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 .VS/
-Config
+Config/appsettings.json
 zsh.exe.stackdump
