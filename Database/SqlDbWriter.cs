@@ -48,7 +48,6 @@ namespace AMGIOTLoadGenerator.Database
                     NotifyAfter = 0 // Disable notifications for better performance
                 };
 
-                // Pre-map columns for better performance
                 foreach (DataColumn column in data.Columns)
                 {
                     bulkCopy.ColumnMappings.Add(column.ColumnName, column.ColumnName);
